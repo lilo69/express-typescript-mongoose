@@ -9,6 +9,7 @@
     "plugin:prettier/recommended"
   ],
   "rules": {
+    "no-useless-catch": 0,
     "no-console": 2, // Remember, this means error!
     "semi": ["error", "always"],
     "quotes": ["error", "single"],

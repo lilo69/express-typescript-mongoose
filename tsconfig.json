@@ -13,5 +13,6 @@
       "*": ["node_modules/*", "src/types/*"]
     }
   },
-  "include": ["src/**/*"]
+  "include": ["src/**/*"],
+  "files": ["src/types/express.types.d.ts"]
 }
